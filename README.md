@@ -25,10 +25,10 @@
 #### Top Repositories
 
 
-<a href="https://github.com/xutongqing/github-readme-stats">
+<a href="https://github.com/xutongqing/WPF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xutongqing&repo=WPF&theme=buefy" />
 </a>
-<a href="https://github.com/xutongqing/xutongqing.github.io">
+<a href="https://github.com/xutongqing/Aollpo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xutongqing&repo=Aollpo&theme=buefy" />
 </a>
 
