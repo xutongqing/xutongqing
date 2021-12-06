@@ -1,6 +1,6 @@
 **About me**
 
-- 💼 Engineer 
+- 💼 Software Engineer
 
 - 📈 Built And Work On Github
 
