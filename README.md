@@ -1,5 +1,4 @@
 # 👋 欢迎来到我的 GitHub！
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=我是同庆;软件工程师;专注于 .NET Core 和 C# 开发)
 
 ## 关于我
 - **姓名**：同庆
@@ -9,8 +8,6 @@
 - **目标**：寻找开源合作或全职机会。
 
 ## 我的 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xutongqing&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xutongqing&layout=compact&theme=radical)
 
 ## 精选项目
 - **[WPF Demo](https://github.com/xutongqing/WPF)**: .NET Core 3.0 WPF 示例项目，使用 C# 构建。
